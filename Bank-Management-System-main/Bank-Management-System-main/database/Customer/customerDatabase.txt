@@ -1,0 +1,24 @@
+1234567890
+1235
+19000.0
+13/04/2023
+Abhay Kumar
+Savings
+01/09/2005
+7985151764
+Male
+Indian
+Pan Card
+*
+123456789
+1234
+1000
+21/03/2024
+santhosh
+Savings
+07/09/2004
+9080765564
+Male
+Indian
+pancard
+*
